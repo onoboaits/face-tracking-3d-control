@@ -64,7 +64,7 @@ The production build will be in the `build/` folder.
 
 ## Demo
 
-(Include a GIF or link to a video demonstrating real-time model control via face landmarks.)
+[https://face-tracking-3d-control.vercel.app]
 
 ## Contact
 
